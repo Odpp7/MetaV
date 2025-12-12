@@ -1,0 +1,31 @@
+@media (max-width:480px) {
+    body{background-size: auto;}
+    .opcion{display: block; text-align: right;}
+    .links{display: none;}
+    .imagen3{width: 20%;}
+    .section1{flex-direction: column-reverse;}
+    .section2{margin-top: -180px; text-align: center; justify-content: center;}
+    .section3{margin: 0px;}
+    .botones{display: flex;}
+    .boton{padding: 8px 25px;}
+    .boton2{padding: 8px 25px}
+    .section3{display: flex;flex-direction: column; margin-top: -50px;}
+    .div5{width: 100%; margin-top: 40px;}
+    .div6{text-align: left;}
+    .article2{margin-top: 100px;}
+    .article3{margin-top: 100px;}
+    #carouselExample{display:  none;}
+    .cards{display: block;}
+    .cartas1{display: flex; align-items: center;}
+    .foto1{width: 110%;}
+    .imgdiv{text-align: right; width: 90%;}
+    .imgplay{width: 30%}
+    .article4{flex-direction: column; height: 550px; gap: 0px;}
+    .letra5{font-size: 30px;}
+    .letra51{font-size: 10px;}
+    .letrasection{width: 85%;}
+    .letra61{display: none;}
+    .section4{margin-top: 30px; width: 85%;}
+    .section5{margin-top: 50px; width: 85%;}
+    .article4{margin-top: -100px;}
+}

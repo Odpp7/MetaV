@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+body {
+    background-image: url("Background.png");
+    background-size: cover;
+    background-color: black;
+}
+
+.opcion{display: none;}
+
+.logo{
+    font-family: "Orbitron", sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+.links{display: flex; gap: 50px;}
+.link{
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.section1{
+    display: flex; 
+    align-items: center;
+    justify-content: right;
+    margin-top: 120px;
+}
+
+.section2{
+    display: flex;
+    justify-content: flex-end;
+    height: 600px;
+}
+
+.divhijo2{
+    width: 62%;
+}
+
+.letra1{
+    font-family: "Orbitron", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+
+.letra2{
+    background: linear-gradient(to right, #F86CF8 0%, #64CEF5 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;    
+}
+
+.letra3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: white;
+    font-size: 14px;    
+}
+
+
+.boton{
+    background: linear-gradient(90deg, #D10ED1, #10A3DA);
+    color: white;
+    padding: 8px 30px 8px 30px;
+    margin-right: 10px;
+}
+
+.boton2{
+    border-image: linear-gradient(90deg, #64CEF5, #F86CF8) 1;
+    color: white;
+    padding: 8px 30px 8px 30px;
+}
+
+.section3{
+    margin-top: -350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div3{flex-direction: column;}
+
+.div5{width: 50%;}
+
+.numero{
+    font-family: "Orbitron", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+.letra4{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+}
+
+.article2{margin-top: 170px;}
+.div6{text-align: center; margin-bottom: 100px;}
+
+.div4{
+    display: flex;
+    flex-direction: column;
+     align-items: flex-start;
+    justify-content: center;
+}
+
+.cartas{
+    background-color: #090823;
+    border-radius: 0px 30px 0px 30px;
+}
+
+.titulo{
+    font-family: "Orbitron", sans-serif;
+    color: white;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.parrafo{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.foto{width: 90%; margin: auto;}
+
+
+.article3{margin-top: 170px;}
+.cards{display: none;}
+
+footer{margin-top: 200px;}
+
+.article4{
+    background-color: #090823; 
+    display: flex;
+    align-items: center;
+    height: 400px;
+    justify-content: center;
+    gap: 100px;
+}
+
+.letrasection{width: 30%;}
+
+.letra5{
+    font-family: "Orbitron", sans-serif;
+    background: linear-gradient(to right, #F86CF8 0%, #64CEF5 15%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    font-weight: 700
+}
+
+.letra51{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: white;
+}
+
+.section4{display: flex; gap: 100px;}
+
+.divfooter{
+    flex-direction: column; 
+    display: flex; 
+    gap: 15px;
+    justify-content: center;
+}
+
+.letra6{
+    font-family: "Orbitron", sans-serif;
+    color: white;
+    font-weight: 700;
+}
+
+.letra61{
+    font-family: "Orbitron", sans-serif;
+    color: white;
+    font-weight: 700;
+}
+
+.letra7{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: white;
+}
+
+.section5{margin-top: -85px;}
+
+
+
+  
